@@ -27,7 +27,7 @@ numexpr = "^2.8.8"
 langchainhub = "^0.1.14"
 
 [tool.poetry.group.dev.dependencies]
-black = "^23.3.0"
+black = "^24.3.0"
 mypy = "^1.4.1"
 pre-commit = "^3.3.3"
 
